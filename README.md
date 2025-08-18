@@ -164,3 +164,6 @@ After launching is VSC you will need to set coordinates on where script should c
 
 
 <!-- fix: resolve multi-monitor coordinate issues - 2025-11-10 18:17:21 -->
+
+
+<!-- fix: improve click accuracy on high DPI screens - 2025-08-19 01:27:51 -->
