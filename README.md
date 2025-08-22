@@ -176,3 +176,6 @@ After launching is VSC you will need to set coordinates on where script should c
 
 
 <!-- fix: improve timing precision - 2025-08-22 05:37:51 -->
+
+
+<!-- feat: add GUI for click sequence management - 2025-08-23 03:11:51 -->
