@@ -179,3 +179,6 @@ After launching is VSC you will need to set coordinates on where script should c
 
 
 <!-- feat: add GUI for click sequence management - 2025-08-23 03:11:51 -->
+
+
+<!-- fix: improve click accuracy on high DPI screens - 2025-08-24 01:05:51 -->
