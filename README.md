@@ -203,3 +203,6 @@ After launching is VSC you will need to set coordinates on where script should c
 
 
 <!-- fix: improve timing precision - 2025-08-31 04:20:51 -->
+
+
+<!-- fix: improve click accuracy on high DPI screens - 2025-08-31 22:09:51 -->
