@@ -212,3 +212,6 @@ After launching is VSC you will need to set coordinates on where script should c
 
 
 <!-- feat: add error recovery mechanisms - 2025-09-03 04:51:51 -->
+
+
+<!-- fix: resolve multi-monitor coordinate issues - 2025-09-03 21:08:51 -->
