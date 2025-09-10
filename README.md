@@ -233,3 +233,6 @@ After launching is VSC you will need to set coordinates on where script should c
 
 
 <!-- refactor: optimize click timing precision - 2025-09-10 02:21:51 -->
+
+
+<!-- fix: resolve multi-monitor coordinate issues - 2025-09-11 01:39:51 -->
