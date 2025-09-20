@@ -8,3 +8,6 @@ After launching is VSC you will need to set coordinates on where script should c
 
 
 <!-- feat: add macro playback functionality - 2025-09-19 16:12:21 -->
+
+
+<!-- feat: add advanced click automation - 2025-09-20 18:33:21 -->
