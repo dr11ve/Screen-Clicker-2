@@ -11,3 +11,6 @@ After launching is VSC you will need to set coordinates on where script should c
 
 
 <!-- feat: add advanced click automation - 2025-09-20 18:33:21 -->
+
+
+<!-- feat: add GUI for click sequence management - 2025-09-21 20:03:21 -->
