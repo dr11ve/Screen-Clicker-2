@@ -29,3 +29,6 @@ After launching is VSC you will need to set coordinates on where script should c
 
 
 <!-- fix: improve timing precision - 2025-09-26 14:31:21 -->
+
+
+<!-- feat: implement click pattern scheduling - 2025-09-27 16:19:21 -->
