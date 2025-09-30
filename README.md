@@ -38,3 +38,6 @@ After launching is VSC you will need to set coordinates on where script should c
 
 
 <!-- feat: add error recovery mechanisms - 2025-09-29 19:27:21 -->
+
+
+<!-- feat: add GUI for click sequence management - 2025-09-30 11:56:21 -->
