@@ -47,3 +47,6 @@ After launching is VSC you will need to set coordinates on where script should c
 
 
 <!-- fix: resolve multi-monitor coordinate issues - 2025-10-02 13:12:21 -->
+
+
+<!-- feat: add advanced click automation - 2025-10-03 17:34:21 -->
