@@ -83,3 +83,6 @@ After launching is VSC you will need to set coordinates on where script should c
 
 
 <!-- feat: add macro playback functionality - 2025-10-14 15:04:21 -->
+
+
+<!-- fix: resolve multi-monitor coordinate issues - 2025-10-15 17:48:21 -->
