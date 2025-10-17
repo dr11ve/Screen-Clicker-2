@@ -89,3 +89,6 @@ After launching is VSC you will need to set coordinates on where script should c
 
 
 <!-- feat: implement coordinate recording - 2025-10-16 17:48:21 -->
+
+
+<!-- feat: add advanced click automation - 2025-10-17 10:54:21 -->
