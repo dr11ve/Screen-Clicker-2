@@ -95,3 +95,6 @@ After launching is VSC you will need to set coordinates on where script should c
 
 
 <!-- feat: add macro playback functionality - 2025-10-18 11:38:21 -->
+
+
+<!-- fix: improve timing precision - 2025-10-19 16:23:21 -->
