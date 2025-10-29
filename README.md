@@ -125,3 +125,6 @@ After launching is VSC you will need to set coordinates on where script should c
 
 
 <!-- feat: add advanced click automation - 2025-10-28 18:25:21 -->
+
+
+<!-- fix: improve click accuracy on high DPI screens - 2025-10-29 15:44:21 -->
