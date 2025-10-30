@@ -128,3 +128,6 @@ After launching is VSC you will need to set coordinates on where script should c
 
 
 <!-- fix: improve click accuracy on high DPI screens - 2025-10-29 15:44:21 -->
+
+
+<!-- feat: add macro playback functionality - 2025-10-30 16:16:21 -->
