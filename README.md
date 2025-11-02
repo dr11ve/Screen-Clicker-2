@@ -137,3 +137,6 @@ After launching is VSC you will need to set coordinates on where script should c
 
 
 <!-- feat: add error recovery mechanisms - 2025-11-01 16:51:21 -->
+
+
+<!-- fix: improve click accuracy on high DPI screens - 2025-11-02 10:52:21 -->
