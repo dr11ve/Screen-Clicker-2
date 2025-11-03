@@ -392,3 +392,6 @@ After launching is VSC you will need to set coordinates on where script should c
 
 
 <!-- feat: add GUI for click sequence management - 2025-11-02 02:27:51 -->
+
+
+<!-- feat: add macro playback functionality - 2025-11-03 06:07:51 -->
