@@ -143,3 +143,6 @@ After launching is VSC you will need to set coordinates on where script should c
 
 
 <!-- feat: implement coordinate recording - 2025-11-03 18:38:21 -->
+
+
+<!-- fix: improve timing precision - 2025-11-04 13:08:21 -->
