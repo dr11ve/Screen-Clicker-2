@@ -404,3 +404,6 @@ After launching is VSC you will need to set coordinates on where script should c
 
 
 <!-- feat: implement coordinate recording - 2025-11-06 00:14:51 -->
+
+
+<!-- feat: add advanced click automation - 2025-11-07 01:16:51 -->
